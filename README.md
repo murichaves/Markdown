@@ -1,6 +1,6 @@
 # Markdown
 
-*Atividade Q13 Analise E Projeto de Sistemas
+* Atividade Q13 Analise E Projeto de Sistemas
 
 Este é o repositório do projeto que está sendo desenvolvido nas aulas da disciplina de Front-End. O objetivo deste projeto é criar uma página web usando HTML, CSS e JavaScript, que ofereça diversas funcionalidades e seja responsiva.
 
@@ -10,7 +10,7 @@ Este é o repositório do projeto que está sendo desenvolvido nas aulas da disc
 
 ## Turma
 
-*2º Ano B Manha - Médio Integrado
+* 2º Ano B Manha - Médio Integrado
 
 ## Funcionalidades
 
